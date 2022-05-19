@@ -2,7 +2,7 @@
 ### Hi there 👋
 
 
-**HiroDevz/HiroDevz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**HiroPH/HiroPH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,13 +15,13 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 --->
-- 👋 Hi, I’m @HiroDevz
+- 👋 Hi, I’m @HiroPH
 - 👀 I’m still learning Java, PHP, Kotlin
 - 📫 How to reach me <a href="https://www.facebook.com/hirooqt">Facebook Account</a>
-- ![](https://komarev.com/ghpvc/?username=HiroDevz&color=ff69b4)
+- ![](https://komarev.com/ghpvc/?username=HiroPH&color=ff69b4)
 
 <!---
 HiroDevz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-![HiroDev's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiroDevz&show_icons=true&theme=jolly)
+![HiroPH's GitHub stats](https://github-readme-stats.vercel.app/api?username=HiroPH&show_icons=true&theme=jolly)
